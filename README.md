@@ -9,7 +9,7 @@ Um projeto para consumir uma API que mostra os filmes mais populares. E o usuár
 ## ✨ Demonstração
 
 Veja abaixo um gif do projeto.</br>
-[![Image from Gyazo](https://i.gyazo.com/72545103b40bf95d6f3d9932d584c07b.gif)](https://gyazo.com/72545103b40bf95d6f3d9932d584c07b)
+[![Image from Gyazo](https://media.giphy.com/media/nW1eTzcD3jz1AEv748/giphy.gif)](https://gyazo.com/72545103b40bf95d6f3d9932d584c07b)
 
 ## 🎯 Objetivo do projeto
 
